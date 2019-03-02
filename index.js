@@ -1,16 +1,3 @@
-// add solution here
-function theBeatlesPlay(musicians, instruments){
-}
-
-
- var ();
- for theBeatlesPlay.musicians
-}
-var = ();
-
-  
-}
-
 function theBeatlesPlay(musicians, instruments) {
   var phrases = [];
   for (var i = 0; i < musicians.length; i++) {
